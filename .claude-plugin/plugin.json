@@ -1,0 +1,8 @@
+{
+  "name": "jidoka",
+  "version": "0.1.0",
+  "description": "Plan-first pipeline for Claude Code: research -> grill -> outline -> llm-code-review. Stop-the-line quality gates for agent work.",
+  "author": { "name": "Niko Permilovsky" },
+  "license": "MIT",
+  "keywords": ["planning", "code-review", "workflow", "skills"]
+}

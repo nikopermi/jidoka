@@ -1,0 +1,11 @@
+{
+  "name": "jidoka",
+  "owner": { "name": "Niko Permilovsky" },
+  "plugins": [
+    {
+      "name": "jidoka",
+      "source": "./",
+      "description": "Plan-first pipeline for Claude Code: research -> grill -> outline -> llm-code-review."
+    }
+  ]
+}
