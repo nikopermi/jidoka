@@ -4,5 +4,6 @@
   "description": "Plan-first pipeline for Claude Code: research -> grill -> outline -> llm-code-review. Stop-the-line quality gates for agent work.",
   "author": { "name": "Niko Permilovsky" },
   "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
   "keywords": ["planning", "code-review", "workflow", "skills"]
 }
