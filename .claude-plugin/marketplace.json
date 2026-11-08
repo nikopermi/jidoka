@@ -1,6 +1,7 @@
 {
   "name": "jidoka",
   "owner": { "name": "Niko Permilovsky" },
+  "description": "Plan-first workflow skills for Claude Code with stop-the-line review gates.",
   "plugins": [
     {
       "name": "jidoka",
